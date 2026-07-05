@@ -1,0 +1,15 @@
+/Users/salehabbasov/Desktop/LAB2/LabWorkDay2/LabWorkDay2/bin/Debug/net10.0/LabWorkDay2
+/Users/salehabbasov/Desktop/LAB2/LabWorkDay2/LabWorkDay2/bin/Debug/net10.0/LabWorkDay2.deps.json
+/Users/salehabbasov/Desktop/LAB2/LabWorkDay2/LabWorkDay2/bin/Debug/net10.0/LabWorkDay2.runtimeconfig.json
+/Users/salehabbasov/Desktop/LAB2/LabWorkDay2/LabWorkDay2/bin/Debug/net10.0/LabWorkDay2.dll
+/Users/salehabbasov/Desktop/LAB2/LabWorkDay2/LabWorkDay2/bin/Debug/net10.0/LabWorkDay2.pdb
+/Users/salehabbasov/Desktop/LAB2/LabWorkDay2/LabWorkDay2/obj/Debug/net10.0/LabWorkDay2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salehabbasov/Desktop/LAB2/LabWorkDay2/LabWorkDay2/obj/Debug/net10.0/LabWorkDay2.AssemblyInfoInputs.cache
+/Users/salehabbasov/Desktop/LAB2/LabWorkDay2/LabWorkDay2/obj/Debug/net10.0/LabWorkDay2.AssemblyInfo.cs
+/Users/salehabbasov/Desktop/LAB2/LabWorkDay2/LabWorkDay2/obj/Debug/net10.0/LabWorkDay2.csproj.CoreCompileInputs.cache
+/Users/salehabbasov/Desktop/LAB2/LabWorkDay2/LabWorkDay2/obj/Debug/net10.0/LabWorkDay2.sourcelink.json
+/Users/salehabbasov/Desktop/LAB2/LabWorkDay2/LabWorkDay2/obj/Debug/net10.0/LabWorkDay2.dll
+/Users/salehabbasov/Desktop/LAB2/LabWorkDay2/LabWorkDay2/obj/Debug/net10.0/refint/LabWorkDay2.dll
+/Users/salehabbasov/Desktop/LAB2/LabWorkDay2/LabWorkDay2/obj/Debug/net10.0/LabWorkDay2.pdb
+/Users/salehabbasov/Desktop/LAB2/LabWorkDay2/LabWorkDay2/obj/Debug/net10.0/LabWorkDay2.genruntimeconfig.cache
+/Users/salehabbasov/Desktop/LAB2/LabWorkDay2/LabWorkDay2/obj/Debug/net10.0/ref/LabWorkDay2.dll
